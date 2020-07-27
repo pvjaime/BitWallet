@@ -1,4 +1,4 @@
-package cl.jaimikus.bitwallet;
+package cl.jaimikus.bitwallet.ui.home;
 
 import android.os.Bundle;
 
@@ -9,6 +9,8 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
+
+import cl.jaimikus.bitwallet.R;
 
 public class MainActivity extends AppCompatActivity {
 
