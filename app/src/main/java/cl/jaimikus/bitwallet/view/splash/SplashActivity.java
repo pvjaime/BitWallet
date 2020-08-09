@@ -1,4 +1,4 @@
-package cl.jaimikus.bitwallet.ui.splash;
+package cl.jaimikus.bitwallet.view.splash;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -9,8 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import cl.jaimikus.bitwallet.ui.addresss.AddressActivity;
-import cl.jaimikus.bitwallet.ui.home.MainActivity;
+import cl.jaimikus.bitwallet.view.addresss.AddressActivity;
+import cl.jaimikus.bitwallet.view.home.MainActivity;
 import cl.jaimikus.bitwallet.R;
 
 import static cl.jaimikus.bitwallet.utils.CONSTS.ADDRESS_KEY;

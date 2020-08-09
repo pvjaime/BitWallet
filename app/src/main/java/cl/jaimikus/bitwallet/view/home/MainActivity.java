@@ -1,4 +1,4 @@
-package cl.jaimikus.bitwallet.ui.home;
+package cl.jaimikus.bitwallet.view.home;
 
 import android.os.Bundle;
 

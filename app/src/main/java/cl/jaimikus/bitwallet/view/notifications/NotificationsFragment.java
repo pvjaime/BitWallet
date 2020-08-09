@@ -1,4 +1,4 @@
-package cl.jaimikus.bitwallet.ui.notifications;
+package cl.jaimikus.bitwallet.view.notifications;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
