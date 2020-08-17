@@ -9,13 +9,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import cl.jaimikus.bitwallet.view.BaseActivity;
 import cl.jaimikus.bitwallet.view.addresss.AddressActivity;
 import cl.jaimikus.bitwallet.view.home.MainActivity;
 import cl.jaimikus.bitwallet.R;
 
 import static cl.jaimikus.bitwallet.utils.CONSTS.ADDRESS_KEY;
 
-public class SplashActivity extends AppCompatActivity {
+public class SplashActivity extends BaseActivity {
 
 
     private static final long TIME_SPLASH = 2000;
